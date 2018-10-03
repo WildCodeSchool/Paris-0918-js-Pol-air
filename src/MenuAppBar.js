@@ -31,8 +31,7 @@ function ButtonAppBar(props) {
           </IconButton>
           <Typography variant="title" color="inherit" className={classes.grow}>
             Pol'Air
-          </Typography>
-          
+          </Typography>          
         </Toolbar>
       </AppBar>
     </div>
